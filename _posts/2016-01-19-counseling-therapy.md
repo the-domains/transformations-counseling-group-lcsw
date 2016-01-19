@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Welcome
-datePublished: '2016-01-19T13:49:14.773Z'
-dateModified: '2016-01-19T13:49:12.929Z'
+datePublished: '2016-01-19T14:05:37.566Z'
+dateModified: '2016-01-19T14:05:32.464Z'
 title: Counseling / Therapy
 author: []
 sourcePath: _posts/2016-01-19-counseling-therapy.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: counseling-therapy/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9b3cd51367f46dd40a05f3b9aa377caef175031.png)
@@ -29,7 +29,7 @@ _type: Blurb
 # [Counseling][0][/ Therapy][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56eb7f79-3aed-4d41-b73f-8b395a874a6e.jpg)
 
-#### What makes Transformations Counseling Group Different?
+#### **What makes Transformations Counseling Group Different?**
 
 Harriette and Ken our directors handpicked a team of therapists that offer a diversity of counseling / therapy sub-specialties and who, after working together over the past few years, now consider one another family. We meet together on a bi weekly basis to discuss the latest research and techniques so that we can provide you with the best possible care. Together we review cases and receive input from one another so that you get the benefit from not one but five other therapists. We coordinate your care with all your providers;  meaning if necessary we speak to your physician, psychiatrist, nurse practitioner, acupuncturist or other complimentary healers. Additionally for clients who are younger or with adults with severe anxiety and depression, you can request Butch, our certified support dog to help provide you with a  safe and caring animal helper.
 
