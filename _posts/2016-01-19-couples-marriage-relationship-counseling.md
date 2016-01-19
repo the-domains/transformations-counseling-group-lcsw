@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T14:15:49.773Z'
-dateModified: '2016-01-19T14:15:36.010Z'
+datePublished: '2016-01-19T14:16:42.856Z'
+dateModified: '2016-01-19T14:16:29.897Z'
 title: Couples Marriage Relationship Counseling
 author: []
+sourcePath: _posts/2016-01-19-couples-marriage-relationship-counseling.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-couples-marriage-relationship-counseling.md
-published: true
 url: couples-marriage-relationship-counseling/index.html
 _type: WebPage
 
