@@ -1,0 +1,28 @@
+name: 'Transformations Counseling Group, LCSW'
+favicon: null
+layout_spectrum: 0.28529825527220964
+typography_spectrum: 0.2578975330106914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4814786349888891
+  lightness: 0.07974337693303823
+  saturation: 0.2677056659013033
+  rhythmicContrast: 0.7079037413932383
+purpose: []
