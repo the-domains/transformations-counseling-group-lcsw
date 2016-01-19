@@ -1,28 +1,28 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-19T13:25:59.629Z'
-dateModified: '2016-01-19T13:22:25.222Z'
+description: Welcome
+datePublished: '2016-01-19T13:36:16.023Z'
+dateModified: '2016-01-19T13:36:05.596Z'
 title: Counseling / Therapy
 author: []
+sourcePath: _posts/2016-01-19-counseling-therapy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-counseling-therapy.md
-published: true
-url: counseling-therapy/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf8fd7ec-b581-4b9c-8d8a-db45bf352be6.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9b3cd51367f46dd40a05f3b9aa377caef175031.png)
 
 # [Counseling / Therapy][0]
 
