@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome
-datePublished: '2016-01-19T13:48:40.227Z'
-dateModified: '2016-01-19T13:48:37.926Z'
+datePublished: '2016-01-19T13:49:14.644Z'
+dateModified: '2016-01-19T13:49:12.929Z'
 title: Counseling / Therapy
 author: []
 sourcePath: _posts/2016-01-19-counseling-therapy.md
@@ -23,6 +23,8 @@ _type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9b3cd51367f46dd40a05f3b9aa377caef175031.png)
+
+# 
 
 # [Counseling][0][/ Therapy][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56eb7f79-3aed-4d41-b73f-8b395a874a6e.jpg)
