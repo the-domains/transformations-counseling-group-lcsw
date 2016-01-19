@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome
-datePublished: '2016-01-19T13:36:16.098Z'
-dateModified: '2016-01-19T13:36:05.596Z'
+datePublished: '2016-01-19T13:47:11.251Z'
+dateModified: '2016-01-19T13:47:04.514Z'
 title: Counseling / Therapy
 author: []
 sourcePath: _posts/2016-01-19-counseling-therapy.md
@@ -24,7 +24,8 @@ _type: Blurb
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9b3cd51367f46dd40a05f3b9aa377caef175031.png)
 
-# [Counseling / Therapy][0]
+# [Counseling][0][/ Therapy][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56eb7f79-3aed-4d41-b73f-8b395a874a6e.jpg)
 
 #### What makes Transformations Counseling Group Different?
 
