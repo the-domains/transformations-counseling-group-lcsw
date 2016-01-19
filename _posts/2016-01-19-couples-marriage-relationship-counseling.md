@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T14:16:42.852Z'
+datePublished: '2016-01-19T14:16:42.932Z'
 dateModified: '2016-01-19T14:16:29.897Z'
 title: Couples Marriage Relationship Counseling
 author: []
